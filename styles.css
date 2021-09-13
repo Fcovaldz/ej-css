@@ -1,0 +1,39 @@
+/*
+body{
+    background-color: rgb(0, 255, 221);
+}
+*/
+
+/* Referencia id "#" 
+*/
+#title {
+    color: #32cd32;
+    text-align: center;
+}
+
+/*
+p{
+    color: mediumaquamarine;
+    background-color: black;
+}
+*/
+
+.p-large {
+    font-size: 32px;;
+}
+
+.p-green {
+    color: rgb(7, 250, 7);
+    background-color: rgb(189, 30, 104);
+
+}
+
+.p-red {
+    color:red;
+    background-color: black;
+    
+}
+
+/*h1{
+    color: red;
+}*/

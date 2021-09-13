@@ -1,0 +1,48 @@
+#title {
+    color: #533302;
+    text-align: center;
+    text-size-adjust: 55px;
+}
+p{
+    color: turquoise;
+    font-size: 20px
+}
+
+ol {
+    background: #58bbdb5e;
+    padding: 20px;
+    opacity: inherit;
+    color: turquoise;
+    font-size: 20px
+    
+  }
+  
+  ul {
+    background: #02182e;
+    padding: 20px;
+    opacity: 0.3;
+  }
+  
+  ol li {
+    background: #0093b871;
+    padding: 5px;
+    margin-left: 15px;
+    
+    color: rgb(255, 255, 255);
+    font-size: 20px
+    
+  }
+  h3{
+      color: rgb(255, 153, 0);
+  }
+  
+  ul li{
+    background: #2a77c980;
+    margin: 5px;
+   
+  }
+  body {
+    background-image: url("img/R.jpg");
+    background-position: center;
+  }
+
