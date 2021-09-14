@@ -1,0 +1,34 @@
+body {
+    font  : 21px sans-serif;
+  
+    padding : 2em;
+    margin  : 0;
+  
+    background : #222;
+}
+  
+form {
+    position: relative;
+  
+    width  : 740px;
+    height : 498px;
+    margin : 0 auto;
+  
+    background: #FFF url(img/Hexagon-36.jpg);
+}
+button {
+      background-color: rgb(0, 209, 17);
+      margin: 0 auto;
+}
+#from {
+    margin : 0 auto;
+}
+h1{
+    color: whitesmoke;
+}
+#reply{
+    margin : 0 auto;
+}
+#subject{
+    margin : 0 auto;
+}

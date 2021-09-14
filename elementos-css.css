@@ -1,0 +1,39 @@
+ body {
+     background-image: url("https://de10.com.mx/sites/default/files/styles/imagen_body/public/2021/09/08/meme_sismo_14.jpg?itok=GmsZkRvo");
+ }
+
+ .title {
+     text-align:center;
+     color: royalblue;
+     background-color: black;
+     border: 5px solid red;
+     margin: 50px;
+ }
+
+ .subtitle {
+     background-color: red;
+     color: white;
+     text-align: center;
+     padding: 20px;
+     margin: 30;
+ }
+
+ #caja, #caja2{
+     background-color: black;
+ }
+
+ #caja {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    /* 
+    margin-top: 100px;
+    margin-bottom: 50px;
+    */
+    margin: 0 auto;
+   
+ }
+
+ #caja p, #caja2 p{
+     color: white;
+ }
