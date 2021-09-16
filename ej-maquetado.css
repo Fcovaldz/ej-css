@@ -1,0 +1,40 @@
+body {
+    background: rgb(219, 219, 219);
+}
+h1{
+   text-align: center;
+    /*margin: 0 auto;*/
+}
+h2 {
+    background: gray;
+    color: white;
+}
+.red {
+    color: red;
+    font-family: 'Courgette', cursive;
+}
+.bgwhite {
+    background-color: white;
+    color: black;
+}
+img {
+    float: left;
+    width: 100;
+}
+p {
+    text-align: justify;
+    text-indent: 15px;
+    
+}
+div {
+    margin: 0 auto;
+    width: 80%;
+}
+section {
+    width: 80%;
+    margin: 0 auto;
+}
+.clear-fix {
+    clear:both;
+    float: none;
+}
